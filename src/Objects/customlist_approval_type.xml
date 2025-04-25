@@ -1,0 +1,20 @@
+<customlist scriptid="customlist_approval_type">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>Custom Approval Type</name>
+  <customvalues>
+    <customvalue scriptid="val_227411614_630303_816">
+      <isinactive>F</isinactive>
+      <value>Any</value>
+    </customvalue>
+    <customvalue scriptid="val_227411615_630303_837">
+      <isinactive>F</isinactive>
+      <value>All</value>
+    </customvalue>
+    <customvalue scriptid="val_227411616_630303_380">
+      <isinactive>F</isinactive>
+      <value>Sequential</value>
+    </customvalue>
+  </customvalues>
+</customlist>
