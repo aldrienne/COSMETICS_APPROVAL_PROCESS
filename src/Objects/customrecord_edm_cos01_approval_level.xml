@@ -2,7 +2,7 @@
   <accesstype>CUSTRECORDENTRYPERM</accesstype>
   <allowattachments>F</allowattachments>
   <allowinlinedeleting>F</allowinlinedeleting>
-  <allowinlinedetaching>T</allowinlinedetaching>
+  <allowinlinedetaching>F</allowinlinedetaching>
   <allowinlineediting>F</allowinlineediting>
   <allowmobileaccess>F</allowmobileaccess>
   <allownumberingoverride>F</allownumberingoverride>
@@ -31,7 +31,7 @@
   <recordname>Approval Level Record</recordname>
   <showcreationdate>F</showcreationdate>
   <showcreationdateonlist>F</showcreationdateonlist>
-  <showid>F</showid>
+  <showid>T</showid>
   <showlastmodified>F</showlastmodified>
   <showlastmodifiedonlist>F</showlastmodifiedonlist>
   <shownotes>F</shownotes>
@@ -240,4 +240,10 @@
       <subtab></subtab>
     </customrecordcustomfield>
   </customrecordcustomfields>
+  <subtabs>
+    <subtab scriptid="tab_2448_630303_363">
+      <tabparent></tabparent>
+      <tabtitle>Approval Assignee</tabtitle>
+    </subtab>
+  </subtabs>
 </customrecordtype>
